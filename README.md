@@ -1,2 +1,2 @@
 # condoro
-prueba de datos
+prueba de datos desde ghir con el pc
